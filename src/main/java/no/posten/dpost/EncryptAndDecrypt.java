@@ -21,7 +21,7 @@ import java.util.Iterator;
 
 public class EncryptAndDecrypt {
 
-	private static final String WORK_DIR = "/Users/gk/digipost/cms-decrypt-example";
+	private static final String WORK_DIR = "C:\\git_repository\\cms-decrypt-example\\workdir";
 
 	private static final File SOURCE_PDF = new File(WORK_DIR, "source.pdf");
 	private static final File DESTINATION_FILE = new File(WORK_DIR, "encrypted.pdf");
